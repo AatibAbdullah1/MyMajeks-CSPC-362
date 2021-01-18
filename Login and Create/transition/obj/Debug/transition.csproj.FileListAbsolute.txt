@@ -1,0 +1,16 @@
+C:\Users\T PC\Desktop\transition\transition\bin\Debug\transition.exe.config
+C:\Users\T PC\Desktop\transition\transition\bin\Debug\transition.exe
+C:\Users\T PC\Desktop\transition\transition\bin\Debug\transition.pdb
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.csprojAssemblyReference.cache
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.Form1.resources
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.Properties.Resources.resources
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.csproj.GenerateResource.cache
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.csproj.CoreCompileInputs.cache
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.exe
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.pdb
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.Form2.resources
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.Form3.resources
+C:\Users\T PC\Desktop\transition\transition\bin\Debug\information.mdf
+C:\Users\T PC\Desktop\transition\transition\bin\Debug\information_log.ldf
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.Text.resources
+C:\Users\T PC\Desktop\transition\transition\obj\Debug\transition.Form5.resources
